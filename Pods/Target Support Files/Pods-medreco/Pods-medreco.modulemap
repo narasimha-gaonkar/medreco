@@ -1,0 +1,6 @@
+framework module Pods_medreco {
+  umbrella header "Pods-medreco-umbrella.h"
+
+  export *
+  module * { export * }
+}
